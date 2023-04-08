@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/230744142-d22c7cbc-4dcc-4d63-8839-ee65f4951f02.png)
 
-## In this case study I will learn to clean the data to prepare it for modeling and machine learning. The two datsets are from information about grade and ascents of climbing places in Europe and U.S.A. The idea behind this project is to create recomendations on where to climb based upon a climbers information/criteria.
+## In this case study I will learn to clean the data to prepare it for modeling and machine learning. The two datsets are from information about grade and ascents of climbing places in Europe and the U.S.A. The idea behind this project is to create recomendations on where to climb based upon a climbers information/criteria.
 
 ## 1. Import Libraries
 
