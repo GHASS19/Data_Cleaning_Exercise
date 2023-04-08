@@ -38,7 +38,7 @@ We need to:
 
 - a. Normalize
 
--b.  Drop NaN values
+- b. Drop NaN values
 
 - c. Filter out names with less than 3 characters
 
@@ -52,7 +52,7 @@ III. Filtering Out Lower Frequency Names. I tested four different filters (route
 Thus, I will filter the dataset to only include routes that occur more than 5 times
  
  
- ### - Climb Type
+### - Climb Type
  
 0 = rope climbing
 
@@ -94,10 +94,10 @@ a. Need to forward fill all the USA columns so they correspond to the more numer
 
 ## 8. Exporting Data Frames to CSV
 
-### Step 1: Copy the ascent table, and delete all rows except the three rows for the recommendation system, (user_id, name_id, rating).
+Step 1: Copy the ascent table, and delete all rows except the three rows for the recommendation system, (user_id, name_id, rating).
 
-### Step 2: Merge the grade table with the reference table so all reference items are in one table.
+Step 2: Merge the grade table with the reference table so all reference items are in one table.
 
-### Step 3: Drop unneccary columns in both data frames and re-arrange columns.
+Step 3: Drop unneccary columns in both data frames and re-arrange columns.
 
-### Step 4: Export files to google drive.
+Step 4: Export files to google drive.
